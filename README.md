@@ -1,3 +1,18 @@
+# Class on Aug 24
+     - Make sure you accept your github invitations
+     - Follow through ssh/putty setup
+	 - [Full details](https://github.com/fdac18/news/blob/master/Preliminary.md)
+
+# Class on Aug 22
+     - Create your github account 
+	 - Go through the fork students create your utid.md file
+	   providing your name and interests: see Audris.md for
+	   inspiration, and also provide your  utid.key with your public
+	   ssh key.
+     - Make sure you do it during the class so we can start ready Aug
+       24
+
+
 # Syllabus for "Fundamentals of Digital Archeology"
 * **Course:** [COSCS-445/COSCS-545]
 * ** MK-524   2:30-3:20 MWF**
