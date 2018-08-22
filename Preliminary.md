@@ -1,4 +1,4 @@
-## Initial setup: to be done on Aug 24
+## Initial setup: to be done by Aug 24
 
 1. GitHub
    * Sign up for [GitHub](https://github.com/) if not already signed
@@ -12,10 +12,10 @@
       
             - Start by [**forking** the students repository](https://github.com/fdac18/students)
             - Add your utk net id as NETID.md (click on '+' - add 
-               new file next to the https//<span></span><span></span>github.com/fdac18/students/+ link)
+               new file next to the https//github.com/fdac18/students/+ link)
             - Add your UTK netid and publickey key (in id_rsa.pub) to
                NETID.key
-            - Click on Create Pull Request (do not create NETID.md, but replace NETID by your netid)
+            - Click on Create Pull Request (do not create NETID.md, but replace NETID by your netid in all lowercase)
 1. Familiarize yourself with GitHub workflow
    * Walk through [workflow](#workflow) 
     
@@ -33,6 +33,8 @@ your thoughts and questions!  You are welcome to open the pull
 request as the work is still in-progress if you are stuck and want
 to ask a question – just mention `@audris` with the question to make
 sure I know to look at it sooner.
+
+## Initial setup: to be done by Aug 27 on or after Aug 24
 
 
 ## Configuring ssh 
