@@ -1,7 +1,24 @@
+# Class on Sep 10
+
+# Class on Sep 07
+
+# Class on Sep 05
+
+# Class on Aug 31
+
+# Class on Aug 29
+      - Please do homework in fdac18/Practice0 (to familiarize with basic python tools) (Due Aug 31)
+
+
+# Class on Aug 27
+     - Make sure ssh/putty setup works
+	 - [Full details](https://github.com/fdac18/news/blob/master/Preliminary.md)
+
 # Class on Aug 24
      - Make sure you accept your github invitations
      - Follow through ssh/putty setup
 	 - [Full details](https://github.com/fdac18/news/blob/master/Preliminary.md)
+
 
 # Class on Aug 22
      - Create your github account 
@@ -11,6 +28,18 @@
 	   ssh key.
      - Make sure you do it during the class so we can start ready Aug
        24
+
+
+# Information for remote participation via Zoom
+    - Join from a PC, Mac, iPad, iPhone or Android device:
+      Please click this URL to start or join. https://tennessee.zoom.us/j/2766448345
+      Or, go to https://tennessee.zoom.us/join and enter class session/meeting ID: 276 644 8345
+
+    - Join from dial-in phone line: (Note: these are NOT toll-free numbers)
+      Dial: +1 646 558 8656 or +1 408 638 0968
+      Meeting ID: 276 644 8345
+      Participant ID: Shown after joining the meeting
+      International numbers available: https://tennessee.zoom.us/zoomconference?m=leg4C6yjhpfGHE-_Q9EYRNHXCUMBC-2T
 
 
 # Syllabus for "Fundamentals of Digital Archeology"
