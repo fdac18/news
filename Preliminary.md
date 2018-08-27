@@ -63,7 +63,7 @@ sure I know to look at it sooner.
 
   * Putty is a common ssh client for windows
   * [Instructions on how to generate ssh key running windows](https://docs.joyent.com/public-cloud/getting-started/ssh-keys/generating-an-ssh-key-manually/manually-generating-your-ssh-key-in-windows) 
-       1. ![public ssh key from puttygen](https://github.com/fdac18/news/blob/master/puttykey.png "public ssh key from puttygen") also see this issue https://github.com/fdac18/news/issues/1 (thanks @mkramer6)
+       1. Also see [this issue](https://github.com/fdac18/news/issues/1) (thanks @mkramer6) ![public ssh key from puttygen](https://github.com/fdac18/news/blob/master/puttykey.png "public ssh key from puttygen") 
        1. Save the private key and use it in your putty ssh session
        1. Copy the public key (highlited in the image) to add to the list.txt 
        1. Now work on creating and saving session: start putty and go to connection/ssh/tunnels, enter source and destination and click *add*
