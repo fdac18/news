@@ -43,9 +43,9 @@ sure I know to look at it sooner.
     	1. create ~/.ssh/config
         ```
          host da2
-            hosthostname da2.eecs.utk.edu
+            hostname da2.eecs.utk.edu
             port YOURPORT #from students/ports.md
-            username YOURNETID
+            user YOURNETID
             LocalForward 8888 127.0.0.1:8888
             IdentityFile ~/.ssh/id_rsa
          ```
