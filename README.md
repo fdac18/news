@@ -5,12 +5,16 @@
 # Class on Sep 05
 
 # Class on Aug 31
+      - Will go over version control in more detail
+      - fdac18/Practice0 due
 
 # Class on Aug 29
+      - Will go over essential tools needed to do proper data scince
       - Please do homework in fdac18/Practice0 (to familiarize with basic python tools) (Due Aug 31)
 
 
 # Class on Aug 27
+     - FFinishe lecture on the background for the class
      - Make sure ssh/putty setup works
 	 - [Full details](https://github.com/fdac18/news/blob/master/Preliminary.md)
 
