@@ -11,10 +11,11 @@
 # Class on Aug 29
       - Will go over essential tools needed to do proper data scince
       - Please do homework in fdac18/Practice0 (to familiarize with basic python tools) (Due Aug 31)
-
+      - I have no input from iway1:Isaac Caldwell Way, please respond if taking the class
+      - jpace7, ray830305, ssravali: please accept github organization fdac18 invitation
 
 # Class on Aug 27
-     - FFinishe lecture on the background for the class
+     - Finish the lecture on the background for the class
      - Make sure ssh/putty setup works
 	 - [Full details](https://github.com/fdac18/news/blob/master/Preliminary.md)
 
