@@ -15,6 +15,7 @@
       - jpace7, ray830305, ssravali: please accept github organization fdac18 invitation
 
 # Class on Aug 27
+     - As of 9PM Aug 27: Practice0 is open for cloning/completion
      - Finish the lecture on the background for the class
      - Make sure ssh/putty setup works
 	 - [Full details](https://github.com/fdac18/news/blob/master/Preliminary.md)
