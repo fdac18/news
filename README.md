@@ -18,7 +18,7 @@
    - fdac18/Practice0 due
 
 # Class on Aug 29
-   - Will go over [essential tools needed to do proper data scince](https://github.com/fdac18/lectures/blob/master/tools.pdf)
+   - Will go over [essential tools needed to do proper data science](https://github.com/fdac18/lectures/blob/master/tools.pdf)
    - Will spend some time on [version control](https://github.com/fdac18/lectures/blob/master/version_control-FDAC.pdf)
    - Please do homework in fdac18/Practice0 (to familiarize with basic python tools/git/ipython) (Due Aug 31)
    - iway1:Isaac, please sumbint PR with iway1.md
