@@ -22,36 +22,32 @@
    - Will spend some time on [version control](https://github.com/fdac18/lectures/blob/master/version_control-FDAC.pdf)
    - Please do homework in fdac18/Practice0 (to familiarize with basic python tools/git/ipython) (Due Aug 31)
    - iway1:Isaac, please sumbint PR with iway1.md
-    - ray830305: please accept github organization fdac18 invitation
+   - ray830305: please accept github organization fdac18 invitation
 
 # Class on Aug 27
-     - As of 9PM Aug 27: Practice0 is open for cloning/completion
-     - Finish the lecture on the background for the class
-     - Make sure ssh/putty setup works
-	 - [Full details](https://github.com/fdac18/news/blob/master/Preliminary.md)
+   - As of 9PM Aug 27: Practice0 is open for cloning/completion
+   - Finish the lecture on the background for the class
+   - Make sure ssh/putty setup works
+   - [Full details](https://github.com/fdac18/news/blob/master/Preliminary.md)
 
 # Class on Aug 24
-     - Make sure you accept your github invitations
-     - Follow through ssh/putty setup
-	 - [Full details](https://github.com/fdac18/news/blob/master/Preliminary.md)
+   - Make sure you accept your github invitations
+   - Follow through ssh/putty setup
+	- [Full details](https://github.com/fdac18/news/blob/master/Preliminary.md)
 
 
 # Class on Aug 22
-     - Create your github account 
-	 - Go through the fork students create your utid.md file
-	   providing your name and interests: see Audris.md for
-	   inspiration, and also provide your  utid.key with your public
-	   ssh key.
-     - Make sure you do it during the class so we can start ready Aug
-       24
+   - Create your github account 
+     - Go through the fork students create your utid.md file providing your name and interests: see Audris.md for inspiration, and also provide your  utid.key with your public ssh key.
+   - Make sure you do it during the class so we can start ready Aug 24
 
 
 # Information for remote participation via Zoom
-    - Join from a PC, Mac, iPad, iPhone or Android device:
+   - Join from a PC, Mac, iPad, iPhone or Android device:
       Please click this URL to start or join. https://tennessee.zoom.us/j/2766448345
       Or, go to https://tennessee.zoom.us/join and enter class session/meeting ID: 276 644 8345
 
-    - Join from dial-in phone line: (Note: these are NOT toll-free numbers)
+   - Join from dial-in phone line: (Note: these are NOT toll-free numbers)
       Dial: +1 646 558 8656 or +1 408 638 0968
       Meeting ID: 276 644 8345
       Participant ID: Shown after joining the meeting
