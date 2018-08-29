@@ -22,7 +22,6 @@
    - Will spend some time on [version control](https://github.com/fdac18/lectures/blob/master/version_control-FDAC.pdf)
    - Please do homework in fdac18/Practice0 (to familiarize with basic python tools/git/ipython) (Due Aug 31)
    - iway1:Isaac, please sumbint PR with iway1.md
-   - ray830305: please accept github organization fdac18 invitation
 
 # Class on Aug 27
    - As of 9PM Aug 27: Practice0 is open for cloning/completion
