@@ -9,20 +9,20 @@
 	   - Cloud
 
 # Class on Sep 05
-      - Pitches for course projects 
-            - text analysis of twitter data associated with disasteers
-      - Clarification of version control workfflow
+   - Pitches for course projects 
+        - text analysis of twitter data associated with disasteers
+   - Clarification of version control workfflow
 
 # Class on Aug 31
-      - Will go over version control in more detail
-      - fdac18/Practice0 due
+   - Will go over version control in more detail
+   - fdac18/Practice0 due
 
 # Class on Aug 29
-      - Will go over [essential tools needed to do proper data scince](https://github.com/fdac18/lectures/blob/master/tools.pdf)
-      - Will spend some time on [version control](https://github.com/fdac18/lectures/blob/master/version_control-FDAC.pdf)
-      - Please do homework in fdac18/Practice0 (to familiarize with basic python tools/git/ipython) (Due Aug 31)
-      - iway1:Isaac, please sumbint PR with iway1.md
-      - ray830305: please accept github organization fdac18 invitation
+   - Will go over [essential tools needed to do proper data scince](https://github.com/fdac18/lectures/blob/master/tools.pdf)
+   - Will spend some time on [version control](https://github.com/fdac18/lectures/blob/master/version_control-FDAC.pdf)
+   - Please do homework in fdac18/Practice0 (to familiarize with basic python tools/git/ipython) (Due Aug 31)
+   - iway1:Isaac, please sumbint PR with iway1.md
+    - ray830305: please accept github organization fdac18 invitation
 
 # Class on Aug 27
      - As of 9PM Aug 27: Practice0 is open for cloning/completion
