@@ -48,6 +48,8 @@ sure I know to look at it sooner.
             user YOURNETID
             LocalForward 8888 127.0.0.1:8888
             IdentityFile ~/.ssh/id_rsa
+            StrictHostKeyChecking no
+            UserKnownHostsFile /dev/null
          ```
 
         1. place your private key in ~/.ssh/id_rsa
