@@ -40,6 +40,7 @@
      - Go through the fork students create your utid.md file providing your name and interests: see Audris.md for inspiration, and also provide your  utid.key with your public ssh key.
    - Make sure you do it during the class so we can start ready Aug 24
 
+# Class [video recordings](https://drive.google.com/drive/folders/1veT50UXBIN3Jk1oIQ50gLUDXJ_MwwM5i?usp=sharing)
 
 # Information for remote participation via Zoom
    - Join from a PC, Mac, iPad, iPhone or Android device:
