@@ -1,20 +1,48 @@
+# Class on Sep 28
+   - 
+
+# Class on Sep 26
+   - 
+
+# Class on Sep 24
+   - 
+
+# Class on Sep 21
+   - 
+
+# Class on Sep 19
+   - 
+
+# Class on Sep 17
+   - 
+
+# Class on Sep 14
+   - 
+
+# Class on Sep 12
+   - 
+
 # Class on Sep 10
+   - Pitches for course projects 
 
 # Class on Sep 07
-      - Whats behind all the magic
-           - Docker
-	   - ssh
-	   - tunnels
-	   - Jupyter
-	   - Cloud
+   - Pitches for course projects
+   - Clarifications for MiniProject1
+   - [Data storage](https://github.com/fdac18/lectures/blob/master/ds.pdf)		
 
 # Class on Sep 05
    - Pitches for course projects 
         - text analysis of twitter data associated with disasteers
-   - Clarification of version control workfflow
+   - Will introduce MiniProject1
+   - [Data discovery](https://github.com/fdac18/lectures/blob/master/dd.pdf)		
+		
 
 # Class on Aug 31
-   - Will go over version control in more detail
+   - [Whats behind all the magic](https://github.com/fdac18/lectures/blob/master/magic.pdf)
+     - Docker
+     - ssh
+     - tunnels
+     - Jupyter
    - fdac18/Practice0 due
 
 # Class on Aug 29
