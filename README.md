@@ -8,7 +8,7 @@
    - 
 
 # Class on Sep 21
-   - 
+   - Workplan/proposal finalized or the course project 
 
 # Class on Sep 19
    - 
@@ -17,25 +17,25 @@
    - 
 
 # Class on Sep 14
-   - 
+   - Teams finalized or the course project 
 
 # Class on Sep 12
    - 
 
 # Class on Sep 10
-   - Pitches for course projects 
+   - Final pitches for course projects 
+   - Complete MiniProject1 and present to assigned peers
 
 # Class on Sep 07
    - Pitches for course projects
    - Clarifications for MiniProject1
-   - [Data storage](https://github.com/fdac18/lectures/blob/master/ds.pdf)		
+   - [Data storage](https://github.com/fdac18/lectures/blob/master/dd.pdf)		
 
 # Class on Sep 05
    - Pitches for course projects 
         - text analysis of twitter data associated with disasteers
    - Will introduce MiniProject1
    - [Data discovery](https://github.com/fdac18/lectures/blob/master/dd.pdf)		
-		
 
 # Class on Aug 31
    - [Whats behind all the magic](https://github.com/fdac18/lectures/blob/master/magic.pdf)
