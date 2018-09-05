@@ -34,10 +34,11 @@
 
 # Class on Sep 05
    - Pitches for course projects 
-        - Text analysis of twitter data associated with disasteers
-	- Analysis of Social Media Videos 
-	- Automatic Labeling of Forensic Data 
-   - Will introduce MiniProject1
+        
+     - Text analysis of twitter data associated with disasters
+     - Analysis of Social Media Videos 
+     - Automatic Labeling of Forensic Data 
+   - [MiniProject1](https://github.com/fdac18/MiniProject1/blob/master/README.md)
    - [Data discovery](https://github.com/fdac18/lectures/blob/master/dd.pdf)		
 
 # Class on Aug 31
