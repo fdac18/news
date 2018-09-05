@@ -28,12 +28,15 @@
 
 # Class on Sep 07
    - Pitches for course projects
+       - Determination of Video File Uniqueness 
    - Clarifications for MiniProject1
    - [Data storage](https://github.com/fdac18/lectures/blob/master/dd.pdf)		
 
 # Class on Sep 05
    - Pitches for course projects 
-        - text analysis of twitter data associated with disasteers
+        - Text analysis of twitter data associated with disasteers
+	- Analysis of Social Media Videos 
+	- Automatic Labeling of Forensic Data 
    - Will introduce MiniProject1
    - [Data discovery](https://github.com/fdac18/lectures/blob/master/dd.pdf)		
 
