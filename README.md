@@ -33,7 +33,8 @@
        - Determination of Video File Uniqueness 
        - Scraping LinkedIn
        - Explaining Changes in Downloads
-       - 
+       - K-topic: Selecting optimal K
+       
    - Clarifications for MiniProject1 - [Teaming analysis](https://github.com/fdac18/students/blob/master/TeamingAnalysis.ipynb)
 
 # Class on Sep 05
