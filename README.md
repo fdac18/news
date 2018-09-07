@@ -14,14 +14,15 @@
    - 
 
 # Class on Sep 17
+   - [Data storage](https://github.com/fdac18/lectures/blob/master/dd.pdf)		
    - 
 
 # Class on Sep 14
+   - [Data discovery](https://github.com/fdac18/lectures/blob/master/dd.pdf)		
    - Teams finalized or the course project 
-   - [Data storage](https://github.com/fdac18/lectures/blob/master/dd.pdf)		
 
 # Class on Sep 12
-   - 
+   - Group presentations of the results of MiniProject1
 
 # Class on Sep 10
    - Final pitches for course projects 
@@ -30,8 +31,10 @@
 # Class on Sep 07
    - Pitches for course projects
        - Determination of Video File Uniqueness 
-   - Clarifications for MiniProject1
-   - [Data discovery](https://github.com/fdac18/lectures/blob/master/dd.pdf)		
+       - Scraping LinkedIn
+       - Explaining Changes in Downloads
+       - 
+   - Clarifications for MiniProject1 - [Teaming analysis](https://github.com/fdac18/students/blob/master/TeamingAnalysis.ipynb)
 
 # Class on Sep 05
    - Pitches for course projects 
