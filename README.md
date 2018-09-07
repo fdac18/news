@@ -18,6 +18,7 @@
 
 # Class on Sep 14
    - Teams finalized or the course project 
+   - [Data storage](https://github.com/fdac18/lectures/blob/master/dd.pdf)		
 
 # Class on Sep 12
    - 
@@ -30,7 +31,7 @@
    - Pitches for course projects
        - Determination of Video File Uniqueness 
    - Clarifications for MiniProject1
-   - [Data storage](https://github.com/fdac18/lectures/blob/master/dd.pdf)		
+   - [Data discovery](https://github.com/fdac18/lectures/blob/master/dd.pdf)		
 
 # Class on Sep 05
    - Pitches for course projects 
@@ -39,7 +40,6 @@
      - Analysis of Social Media Videos 
      - Automatic Labeling of Forensic Data 
    - [MiniProject1](https://github.com/fdac18/MiniProject1/blob/master/README.md)
-   - [Data discovery](https://github.com/fdac18/lectures/blob/master/dd.pdf)		
 
 # Class on Aug 31
    - [Whats behind all the magic](https://github.com/fdac18/lectures/blob/master/magic.pdf)
