@@ -25,7 +25,10 @@
    - Group presentations of the results of MiniProject1
 
 # Class on Sep 10
-   - Final pitches for course projects 
+   - Final pitches for course projects
+     - Flight Cost Delays
+     -
+     
    - Complete MiniProject1 and present to assigned peers
 
 # Class on Sep 07
