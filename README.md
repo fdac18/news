@@ -28,7 +28,7 @@
    - Final pitches for course projects
      - Flight Cost Delays
      -
-     
+     [Final project assignments](https://docs.google.com/spreadsheets/d/1v-Z_gL8_pmuTIzFNzfsIZyD2XP5w8a37OogByndn3yE/edit#gid=0)
    - Complete MiniProject1 and present to assigned peers
 
 # Class on Sep 07
