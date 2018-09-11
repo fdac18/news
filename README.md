@@ -17,13 +17,13 @@
    - [Data storage](https://github.com/fdac18/lectures/blob/master/dd.pdf)		
    - 
 
-# Class on Sep 14
-   - [Data discovery](https://github.com/fdac18/lectures/blob/master/dd.pdf)		
+# Class on Sep 14	
    - Teams finalized or the course project 
+   - *** Moved from Wed *** Group presentations of the results of MiniProject1
 
 # Class on Sep 12
    - The last pitch: NFL Player performance
-   - Group presentations of the results of MiniProject1
+   - [Data discovery](https://github.com/fdac18/lectures/blob/master/dd.pdf)	
 
 # Class on Sep 10
    - Final pitches for course projects
