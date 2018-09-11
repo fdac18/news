@@ -22,12 +22,13 @@
    - Teams finalized or the course project 
 
 # Class on Sep 12
+   - The last pitch: NFL Player performance
    - Group presentations of the results of MiniProject1
 
 # Class on Sep 10
    - Final pitches for course projects
      - Flight Cost Delays
-     -
+     - NPM dependencies
      [Final project assignments](https://docs.google.com/spreadsheets/d/1v-Z_gL8_pmuTIzFNzfsIZyD2XP5w8a37OogByndn3yE/edit#gid=0)
    - Complete MiniProject1 and present to assigned peers
 
