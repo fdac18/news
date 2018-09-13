@@ -1,21 +1,38 @@
+# Class on Oct 8,10,12 
+   - Working on final project
+   - Working on MiniProject2 part 1: discovery
+   
+# Class on Oct 5
+   - Clarifications on MiniProject2 part 1: discovery
+
+# Class on Oct 3
+   - Introducing MiniProject2 part 1: discovery
+
+# Class on Oct 1
+   - GC assignment due
+
 # Class on Sep 28
-   - 
+   - Clarifications on the use of GC
 
 # Class on Sep 26
-   - 
+   - Introducing cloud ifrastructure
+      - assignment 1: set up use of the the GC. 
 
 # Class on Sep 24
-   - 
+   - Workplan/proposal finalized or the course project 
+        - presentations in the class
 
 # Class on Sep 21
    - Workplan/proposal finalized or the course project 
+        - presentations in the class
 
 # Class on Sep 19
-   - 
+   - Working on the proposals for the final project
 
 # Class on Sep 17
-   - [Data storage](https://github.com/fdac18/lectures/blob/master/dd.pdf)		
-   - 
+   - [Data storage](https://github.com/fdac18/lectures/blob/master/db.pdf)		
+   - Start working on the proposals for the final project
+   - Selected presentations from the MiniProject1
 
 # Class on Sep 14	
    - Teams finalized or the course project 
