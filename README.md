@@ -15,24 +15,25 @@
    - Clarifications on the use of GC
 
 # Class on Sep 26
+   - Final project proposals are due The group needs to submit a project proposal (1.5-2 pages in IEEE format (see https://www.overleaf.com/latex/templates/preparation-of-papers-for-ieee-sponsored-conferences-and-symposia/zfnqfzzzxghk). The proposal should provide a brief motivation for the project, detailed discussion of the data that will be obtained or used in the project, along with a time-line of milestones, and expected outcome.
+   
+# Class on Sep 24
    - Introducing cloud ifrastructure
       - assignment 1: set up use of the the GC. 
 
-# Class on Sep 24
-   - Workplan/proposal finalized or the course project 
-        - presentations in the class
-
-# Class on Sep 21
-   - Workplan/proposal finalized or the course project 
-        - presentations in the class
-
-# Class on Sep 19
-   - Working on the proposals for the final project
+# Class on Sep 19,21
+   - Work on the proposals for the final project
 
 # Class on Sep 17
+   - Group representatives for MiniProject1
+      - Group 5
+      - Group 1
+      - Group 3
+      - Group 7
+      - Group 6
+      
    - [Data storage](https://github.com/fdac18/lectures/blob/master/db.pdf)		
    - Start working on the proposals for the final project
-   - Selected presentations from the MiniProject1
 
 # Class on Sep 14	
    - Teams finalized or the course project 
