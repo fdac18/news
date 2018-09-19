@@ -10,12 +10,12 @@
 
 # Class on Oct 1
    - GC assignment due
-
+ 
 # Class on Sep 28
-   - Clarifications on the use of GC
+   - Final project proposals are due The group needs to submit a project proposal (1.5-2 pages in IEEE format (see https://www.overleaf.com/latex/templates/preparation-of-papers-for-ieee-sponsored-conferences-and-symposia/zfnqfzzzxghk). The proposal should provide a brief motivation for the project, detailed discussion of the data that will be obtained or used in the project, responsibilities of each member, along with a time-line of milestones, and the expected outcome.
 
 # Class on Sep 26
-   - Final project proposals are due The group needs to submit a project proposal (1.5-2 pages in IEEE format (see https://www.overleaf.com/latex/templates/preparation-of-papers-for-ieee-sponsored-conferences-and-symposia/zfnqfzzzxghk). The proposal should provide a brief motivation for the project, detailed discussion of the data that will be obtained or used in the project, responsibilities of each member, along with a time-line of milestones, and the expected outcome.
+  - Clarifications on the use of GC
    
 # Class on Sep 21,24
    - Work on the proposals for the final project
