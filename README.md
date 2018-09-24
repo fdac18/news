@@ -16,11 +16,14 @@
 
 # Class on Sep 26
   - Clarifications on the use of GC
-   
-# Class on Sep 21,24
-   - Work on the proposals for the final project
+
+# Class on Sept 24
    - Introducing cloud infrastructure
       - assignment 1: set up use of the the GC. 
+   - [Data storage](https://github.com/fdac18/lectures/blob/master/db.pdf)		
+
+# Class on Sep 21
+   - Work on the proposals for the final project
 
 # Class on Sep 19
    - Group representatives for MiniProject1   
@@ -36,7 +39,6 @@
       - Group 7
       - Group 6
       
-   - [Data storage](https://github.com/fdac18/lectures/blob/master/db.pdf)		
    - Start working on the proposals for the final project
 
 # Class on Sep 14	
