@@ -1,4 +1,6 @@
 # Class on Oct 8,10,12 
+
+# Class on Oct 8,10,12 
    - Working on final project
    - Working on MiniProject2 part 1: discovery
    
@@ -9,11 +11,17 @@
    - Introducing MiniProject2 part 1: discovery
 
 # Class on Oct 1
-   - GC assignment due
+   - GC assignment due: any remaining questions
+   - Presentations of the proposals (if any are ready)
  
 # Class on Sep 28
    - Final project proposals are due The group needs to submit a project proposal (1.5-2 pages in IEEE format (see https://www.overleaf.com/latex/templates/preparation-of-papers-for-ieee-sponsored-conferences-and-symposia/zfnqfzzzxghk). The proposal should provide a brief motivation for the project, detailed discussion of the data that will be obtained or used in the project, responsibilities of each member, along with a time-line of milestones, and the expected outcome.
-
+   - Presentations of the proposals (if any are ready)
+   - Finalize the proposal
+   - Ensure milestone for the next sprint is set and issues (tasks) assigned for everyone on the team
+   - Ensure gcloud connection is fully functioanal
+   
+   
 # Class on Sep 26
   - Clarifications on the use of GC
 
