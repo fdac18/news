@@ -1,18 +1,25 @@
-# Class on Oct 8,10,12 
+# Class on Oct 15
+   - MiniProject2 part 1: discovery due
+   - MiniProject2 part 2: retrieval introduced
+
 
 # Class on Oct 8,10,12 
+   - Sprint 2 of the final project due
    - Working on final project
    - Working on MiniProject2 part 1: discovery
    
 # Class on Oct 5
+   - Working on final project
+   - Working on MiniProject2 part 1: discovery
    - Clarifications on MiniProject2 part 1: discovery
 
 # Class on Oct 3
-   - Introducing MiniProject2 part 1: discovery
+   - Clarifications on MiniProject2 part 1: discovery
 
 # Class on Oct 1
    - GC assignment due: any remaining questions
-   - Presentations of the proposals (if any are ready)
+   - Presentations of the remaining proposals
+   - Introducing MiniProject2 part 1: discovery
  
 # Class on Sep 28
    - Final project proposals are due The group needs to submit a project proposal (1.5-2 pages in IEEE format (see https://www.overleaf.com/latex/templates/preparation-of-papers-for-ieee-sponsored-conferences-and-symposia/zfnqfzzzxghk). The proposal should provide a brief motivation for the project, detailed discussion of the data that will be obtained or used in the project, responsibilities of each member, along with a time-line of milestones, and the expected outcome.
