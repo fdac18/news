@@ -1,3 +1,15 @@
+
+# Class on Oct 22
+   - Data analysis lecture
+
+# Class on Oct 19
+   - work on final+mini-projects
+   - clarifications as needed
+   
+# Class on Oct 17
+   - MiniProject2 part 1: final final due
+   - MiniProject2 part 2: clarified
+
 # Class on Oct 15
    - MiniProject2 part 1: discovery due
    - MiniProject2 part 2: retrieval introduced
