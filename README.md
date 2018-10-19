@@ -1,4 +1,10 @@
-
+# Class on Nov 02
+   - MiniProject2 phase2 due
+   
+# Class on Oct 31
+# Class on Oct 29
+# Class on Oct 26
+# Class on Oct 24
 # Class on Oct 22
    - Data analysis lecture
 
