@@ -4,7 +4,11 @@
 # Class on Oct 31
 # Class on Oct 29
 # Class on Oct 26
+   - Guest lecture: Doina Caragea Use of Twitter for disaster management 
+   - Will take attendance
+   
 # Class on Oct 24
+   - Finished data analysis presentation
 # Class on Oct 22
    - Data analysis lecture
 
