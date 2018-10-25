@@ -1,11 +1,24 @@
+# Class on Nov 19, 21, 26, 28, 30
+   - Final project presentations
+
+# Class on Nov 16
+   - MiniProject3 due
+
+# Class on Nov 4 , 7, 9, 12
+   - work on final project/Miniproject
+
 # Class on Nov 02
    - MiniProject2 phase2 due
-   
+
 # Class on Oct 31
+   - work on final project/Miniproject
+   
 # Class on Oct 29
+   - MiniProject3 introduced
+   - Please schedule final projecty presentations
+  
 # Class on Oct 26
-   - Guest lecture: Doina Caragea Use of Twitter for disaster management 
-   - Will take attendance
+   - Guest lecture: Doina Caragea Use of Twitter for Disaster Management 
    
 # Class on Oct 24
    - Finished data analysis presentation
