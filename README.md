@@ -1,5 +1,24 @@
-# Class on Nov 19, 21, 26, 28, 30
-   - Final project presentations
+
+# Class on Dec 3
+  - 5. NFL data presetation Presentation
+  - 6. Twitter Analysis Presentation
+  - 9. Social Media Presentation
+  
+# Class on Nov 30
+  - 2. JS Frameworks Presentation
+  - 4. VideoFile Uniqueness  Presentation
+  
+# Class on Nov 28
+  - 1. Flight Cost Presentation
+  - 3. NPM Vulnerabilities presentation
+
+# Class on Nov 26
+  - 7. LinkedIn presentation
+  - 8. Forensic Imaging presentation
+ 
+
+# Class on Nov 19, 21
+  - Wrap-up
 
 # Class on Nov 16
    - MiniProject3 due
