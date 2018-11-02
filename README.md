@@ -27,8 +27,11 @@
 # Class on Nov 16
    - MiniProject3 due
 
-# Class on Nov 4 , 7, 9, 12
+# Class on Nov  7, 9, 12
    - work on final project/Miniproject
+
+# Class on Nov 5
+   - Lecture on text analysis
 
 # Class on Nov 02
    - MiniProject2 phase2 due
