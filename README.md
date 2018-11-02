@@ -35,6 +35,18 @@
 
 # Class on Nov 02
    - MiniProject2 phase2 due
+   As of 1:30PM Nov 02
+   - I don't see forks for 
+        - Tasmia, 
+	- desai07, 
+	- jyu25utk, 
+	- nschwerz, 
+	- ray830305
+   - I dont see any activity for 
+        - 3PIV
+	- CipherR9
+        - tgoedecke
+        - mander59
 
 # Class on Oct 31
    - work on final project/Miniproject
