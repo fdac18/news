@@ -1,4 +1,8 @@
-
+# Advertisements
+ - I am looking for motivated undergraduates to work on exciting data science research involving machine learning text and image analysis starting now/Spring'19
+ - I am looking for students interesed in pursuing PhD starting Fall 2019
+ - If you want to learn advanced data analysis/text analysis/image analysis you may consider graduate course [Evidence engineering](https://github.com/eveng/news)
+ 
 # Class on Dec 3
   - 5. NFL data presetation Presentation
   - 6. Twitter Analysis Presentation
