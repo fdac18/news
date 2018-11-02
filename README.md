@@ -36,13 +36,11 @@
 # Class on Nov 02
    - MiniProject2 phase2 due
    As of 1:30PM Nov 02
-   - I don't see forks for 
-        - Tasmia, 
-	- desai07, 
+   - I don't see forks for:
 	- jyu25utk, 
 	- nschwerz, 
 	- ray830305
-   - I dont see any activity for 
+   - I dont see any activity in the forks: 
         - 3PIV
 	- CipherR9
         - tgoedecke
