@@ -4,7 +4,7 @@
  - If you want to learn advanced data analysis/text analysis/image analysis you may consider graduate course [Evidence engineering](https://github.com/eveng/news)
  
 # Class on Dec 3
-  - 5. NFL data presetation Presentation
+  - 5. NFL data  Presentation
   - 6. Twitter Analysis Presentation
   - 9. Social Media Presentation
   
