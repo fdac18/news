@@ -27,8 +27,13 @@
 # Class on Nov 16
    - MiniProject3 due
 
-# Class on Nov  7, 9, 12
-   - work on final project/Miniproject
+# Class on Nov  7, 9, 12, 14
+   - will meet with each team to hear progress reports on final project
+      - Twitter and SocialMediaVideo on 7
+      - VideoFileUniqueness and NPM Vulnerabilities on 9
+      - NFL + LinkedIn on 12
+      - Frameworks + FlightCost on 14
+      - Forensic on 16
 
 # Class on Nov 5
    - Lecture on text analysis
