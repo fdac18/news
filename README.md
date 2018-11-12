@@ -42,15 +42,11 @@
 # Class on Nov 02
    - MiniProject2 phase2 due
    As of 1:30PM Nov 02
-   - I don't see forks for:
-	- jyu25utk, 
-	- nschwerz, 
-	- ray830305
+   - I don't see forks for: nschwerz
    - I dont see any activity in the forks: 
-        - 3PIV
-	- CipherR9
-        - tgoedecke
-        - mander59
+   
+       - CipherR9
+       - mander59
 
 # Class on Oct 31
    - work on final project/Miniproject
