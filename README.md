@@ -26,7 +26,15 @@
   - Wrap-up
 
 # Class on Nov 16
-   - MiniProject3 due
+   - MiniProject3 due;  The notebook/r-studio has to have 
+   - a hypothesis "I think the priority is going to be affected by ..."
+   - explanation how needed measures are calculated from the provided data
+   - descriptive analysis of the proposed measures
+   - transformation and cleaning statement
+   - correlation analysis and a statement about whhether or not some of the measures are too correlated and need to be dropped
+   - fitting of the statistical model
+   - interpretation of coefficients 
+   - Please use lectures/fdacStats.ipynb and lecture slides for guidance
 
 # Class on Nov  7, 9, 12, 14
    - will meet with each team to hear progress reports on final project
