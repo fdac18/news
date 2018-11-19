@@ -1,3 +1,5 @@
+# [Course evaluations open](https://utk.campuslabs.com/courseeval/)     
+
 # Advertisements
  - I am looking for motivated undergraduates to work on exciting data science research involving machine learning text and image analysis starting now/Spring'19
  - I am looking for students interesed in pursuing PhD starting Fall 2019
