@@ -6,6 +6,9 @@
  - If you want to learn advanced data analysis/text analysis/image analysis you may consider graduate course [Evidence engineering](https://github.com/eveng/news)
  - If you are interested in visualization, there is [COSC494/557 offered in spring](https://github.com/fdac18/news/blob/master/COSC494557-DataVis-Flyer.pdf) 
  
+# Projects are due Dec 12
+
+
 # Class on Dec 3
   - 5. NFL data  Presentation
   - 6. Twitter Analysis Presentation
