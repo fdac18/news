@@ -9,7 +9,7 @@
    
             - Do steps 1, 2, 4, and 5
             - Do Not Share Your Private Key in id_rsa
-   * [set up git](https://help.github.com/articles/set-up-git/)
+   * [set up git](https://help.github.com/articles/set-up-git)
    * Make sure you can go over the [basic git tutorial](https://git-scm.com/docs/gittutorial)
    * [Fork](https://help.github.com/articles/fork-a-repo/) and create a [pull request](https://help.github.com/articles/using-pull-requests/) on [students repository](https://github.com/fdac18/students) so I
       can add you to the to the GitHub group for the course.
