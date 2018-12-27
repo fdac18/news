@@ -1,12 +1,16 @@
 ## Initial setup: to be done by Aug 24
 
 1. GitHub
+   * Learn about [git and github](https://help.github.com/articles/git-and-github-learning-resources/)
+   * Make sure 
    * Sign up for [GitHub](https://github.com/) if not already signed
      up. Pick default (free plan).
    * [Create ssh key](https://help.github.com/articles/generating-ssh-keys/)
    
             - Do steps 1, 2, 4, and 5
             - Do Not Share Your Private Key in id_rsa
+   * [set up git](https://help.github.com/articles/set-up-git/)
+   * Make sure you can go over the [basic git tutorial](https://git-scm.com/docs/gittutorial)
    * [Fork](https://help.github.com/articles/fork-a-repo/) and create a [pull request](https://help.github.com/articles/using-pull-requests/) on [students repository](https://github.com/fdac18/students) so I
       can add you to the to the GitHub group for the course.
       
@@ -17,15 +21,15 @@
                NETID.key
             - Click on Create Pull Request (do not create NETID.md, but replace NETID by your netid in all lowercase)
 1. Familiarize yourself with GitHub workflow
-   * Walk through [workflow](#workflow) 
+   * Go through workflow below
     
 ## Typical workflow
-1. To start, [**fork** the repository][forking] for the test project (found under [github.com/fdac18](https://github.com/fdac18))
-1. [**Clone**][ref-clone] the repository to your computer.
+1. To start, [**fork** the repository](https://help.github.com/articles/fork-a-repo/) for the test project (found under [github.com/fdac18](https://github.com/fdac18))
+1. [**Clone**](https://git-scm.com/docs/git-clone) the repository to your computer.
 1. View, create, and edit your files
-1. [**commit**][ref-commit] changes to complete your solution.
-1. [**Push**][ref-push]/sync the changes up to GitHub.
-1. [Create a **pull request**][pull-request] on the original repository
+1. [**commit**](https://git-scm.com/docs/git-commit) changes to complete your solution.
+1. [**Push**](https://git-scm.com/docs/git-push)/sync the changes up to GitHub.
+1. [Create a **pull request**](https://help.github.com/articles/about-pull-requests) on the original repository
 
 
 Feedback will be given in the pull request, so please respond with
